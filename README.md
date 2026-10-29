@@ -4,7 +4,7 @@ Repositório criado para armazenar os projetos desenvolvidos durante meus estudo
 
 O objetivo é colocar em prática os conhecimentos que estou adquirindo, desenvolver minhas habilidades e evoluir na criação de páginas web.
 
-## 💻 Projetos
+## 💻 Projeto
 
 ### 🐶 We Care
 Primeiro projeto desenvolvido durante o curso, com foco na criação de uma página web utilizando HTML e CSS.
@@ -29,3 +29,5 @@ Os projetos foram desenvolvidos com base em modelos de referência do Figma, uti
 ## 🎯 Objetivo
 
 Praticar e aprimorar meus conhecimentos em desenvolvimento web, criando projetos e aplicando os conceitos aprendidos durante as aulas do DevClub.
+
+📚 Projetos desenvolvidos durante minha jornada de aprendizado em programação.
