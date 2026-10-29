@@ -10,10 +10,10 @@ O objetivo é colocar em prática os conhecimentos que estou adquirindo, desenvo
 Primeiro projeto desenvolvido durante o curso, com foco na criação de uma página web utilizando HTML e CSS.
 
 <h2 align="center">🏜️ Modelo usado</h2>
-<img src="https://github.com/ismaelsh05/Projeto-DevClub1/blob/main/img/Captura%20de%20tela%202026-10-27%20195110..png?raw=true">
+<img src="https://github.com/ismaelsh05/Projeto-DevClub-WE-CARE/blob/main/img/Captura%20de%20tela%202026-10-27%20195110..png?raw=true">
 
 <h2 align="center">📝 Meu projeto</h2>
 
-<img src="https://github.com/ismaelsh05/Projeto-DevClub1/blob/main/img/Captura%20de%20tela%202026-10-27%20193822..png?raw=true">
-<img src="https://github.com/ismaelsh05/Projeto-DevClub1/blob/main/img/Captura%20de%20tela%202026-10-27%20193943..png?raw=true">
+<img src="https://github.com/ismaelsh05/Projeto-DevClub-WE-CARE/blob/main/img/Captura%20de%20tela%202026-10-27%20193822..png?raw=true">
+<img src="https://github.com/ismaelsh05/Projeto-DevClub-WE-CARE/blob/main/img/Captura%20de%20tela%202026-10-27%20193943..png?raw=true">
 
